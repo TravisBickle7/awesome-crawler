@@ -143,7 +143,6 @@ warning: crawlers are time-sensitive, if you can't run them directly, please cha
 * [Weibo Image Crawler](https://github.com/lonsty/weibo-image-spider)
 * [Weibo Topic Search Analysis](https://github.com/luzhijun/weiboSA)
 * [Netease Cloud Music](https://github.com/RitterHou/music-163)
-* [New. NetEase Hot Review](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%BD%91%) E6%98%93%E4%BA%91%E7%83%AD%E8%AF%84%E7%88%AC%E5%8F%96)
 * [Vipshop Products](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/vip)
 
 ### X
