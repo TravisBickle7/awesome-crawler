@@ -82,7 +82,6 @@ warning: crawlers are time-sensitive, if you can't run them directly, please cha
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
 * [Manga Meow One Click Download Manga~](https://github.com/miaoerduo/cartoon-cat)
 * [MM131 sexy beauty photo set full crawl](https://github.com/qwertyuiop6/mm131)
-* Beauty photo set crawler [(a)](https://github.com/chenjiandongx/mmjpg)[(b)](https://github.com/chenjiandongx/mzitu)[(c)](https://github.com/) chenjiandongx/photo-gevent)
 * [girl picture](https://github.com/3inchtime/mmjpg_spider)
 * [cat.com movie rating](https://github.com/CasterWx/python-maoyan-spider)
 
