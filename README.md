@@ -127,7 +127,6 @@ warning: crawlers are time-sensitive, if you can't run them directly, please cha
 * [Taobao mm](https://github.com/carlonelong/TaobaoMMCrawler)
 * [Tmall Women's Bra Size Crawler](https://github.com/chenjiandongx/cup-size)
 * [Taobao live pop-up crawler(node)](https://github.com/xiaozhongliu/taobao-live-crawler)
-* [Tianya forum article](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%88%) AC%E5%8F%96%E8%AE%BA%E5%9D%9B%E6%96%87%E7%AB%A0)
 * [skywatch crawler](https://github.com/qzcool/Tianyancha)
 
 ### V
