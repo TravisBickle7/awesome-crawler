@@ -30,7 +30,6 @@ warning: crawlers are time-sensitive, if you can't run them directly, please cha
 * [douban read](https://github.com/lanbing510/DouBanSpider)
 * [douban crawler set](https://github.com/dontcontactme/doubanspiders)
 * [Douban Shy Group](https://github.com/rockdai/haixiu)
-* [Douban Book Breadth Crawl](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E8%) B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6%E6%B7%B1%E5%BA%A6%E7%88%AC%E5%8F%96)
 * [DNS records and subdomains](https://github.com/TheRook/subbrute)
 * [DHT Web Magnet Seed Crawler](https://github.com/chenjiandongx/magnet-dht)
 * [Jitterbug](https://github.com/Python3WebSpider/DouYin)
