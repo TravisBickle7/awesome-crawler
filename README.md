@@ -1,4 +1,4 @@
-# Crawler-Collection
+# awesome-crawler
 The largest and most complete web crawler repository, you are welcome to browse and use, you are also welcome to join our open source business
 Collection of various crawlers (python is the most popular), welcome to use
 
